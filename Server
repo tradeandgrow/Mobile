@@ -1,0 +1,25 @@
+{
+  "company": "Rbull Server",
+  "website": "www.Rbull.com",
+  "genericEmail": "info@Rbull.com",
+  "logoHash": "7F3249CDE698D21423E1A0C266A248AA",
+  "logoUrl": "https://download.mql5.com/cdn/mobile/logos/7/7F3249CDE698D21423E1A0C266A248AA.png",
+  "registrationAddress": "Rbull",
+  "registrationNumber": "405484",
+  "officesLocation": "Kuwait",
+  "abuseEmail": "support@Rbull.com",
+  "abuseUrl": "https://Rbull.com/About/ContactUs",
+  "phone": "Tel: +965 32050280",
+  "limitedAccess": false,
+  "regulation": false,
+  "legalCountry": "KW",
+  "servers": [
+    {
+      "name": "Rbull-Server",
+      "access": [
+        "108.181.97.196:443"
+      ],
+      "isDemo": 0
+    }
+  ]
+}
