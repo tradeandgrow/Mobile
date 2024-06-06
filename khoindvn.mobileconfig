@@ -441,7 +441,7 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>DNS Khơindvn</string>
+	<string>DNS MQStore</string>
 	<key>PayloadIdentifier</key>
 	<string>khoindvn.cloudflare.warp.com.profile</string>
 	<key>PayloadOrganization</key>
